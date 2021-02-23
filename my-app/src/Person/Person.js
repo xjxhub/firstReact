@@ -10,6 +10,8 @@ const person = (props) => {
     )
 }
 
+//kkS
+
 //ooooooooo==ooooooooo
 //ohou
 export default person;
